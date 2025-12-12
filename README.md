@@ -165,5 +165,4 @@ This is a digitization project of Chandamama Magazine archives. Please attribute
 ---
 
 **Last Updated**: December 2025  
-**Compiled by**: Project Team  
-**Contact**: For questions or contributions, please reach out to the project maintainers
+**Compiled by**: DevCatalyst 
